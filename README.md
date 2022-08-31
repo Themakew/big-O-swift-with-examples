@@ -14,4 +14,6 @@ Two main concepts:
 
 - **The order of growth** describes how the execution time changes with input length. The following are some of the most common orders of growth in Big O notation:
 
-![[Big-O Complexity Chart](https://www.bigocheatsheet.com)](bigOComplexityChart.png)
+![Big-O Complexity Chart](bigOComplexityChart.png)
+
+[Big-O Complexity Chart](https://www.bigocheatsheet.com)
