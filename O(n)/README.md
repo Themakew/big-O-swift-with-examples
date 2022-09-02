@@ -2,4 +2,4 @@
 
 Runtime grows directly in proportion to n. 
 
-![O(n) Complexity](bigOComplexityChart.png)
+![O(n) Complexity](chart.png)
