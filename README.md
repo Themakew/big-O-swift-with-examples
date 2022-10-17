@@ -1,10 +1,10 @@
-# Big O swift with examples
+# Big-O swift with examples
 
-A simple repository detailing some important concepts of Big O notation, with examples written in Swift.
+A simple repository detailing some important concepts of Big-O notation, with examples written in Swift.
 
-## Big O Main Concepts
+## Big-O Main Concepts
 
-In computer science, Big O notation is used to express the performance or complexity of an algorithm. Big O expresses the worst-case scenario and can be used to define the execution time or space required by an algorithm (e.g., in memory or on disk).
+In computer science, Big-O notation is used to express the performance or complexity of an algorithm. Big O expresses the worst-case scenario and can be used to define the execution time or space required by an algorithm (e.g., in memory or on disk).
 
 Two main concepts:
 
